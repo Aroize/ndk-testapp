@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">vegasoftapp</string>
+    <string name="ping_result_placeholder">Ожидание данных…</string>
+    <string name="ping_input_hint">Введите строку</string>
+    <string name="ping_delay_picker">Задержка (сек):</string>
+    <string name="ping_run">Run</string>
+    <string name="ping_delay_picker_item">%1$s сек.</string>
+    <string name="ping_please_wait">Please wait…</string>
+</resources>
